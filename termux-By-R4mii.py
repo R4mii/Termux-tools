@@ -57,63 +57,63 @@ install11 = os.system("apt install host")
 
 install = os.system("apt install nano")
 
-install = os.system("apt install havij")
+install12 = os.system("apt install havij")
 
-install = os.system("apt install hydra")
+install13 = os.system("apt install hydra")
 
-install = os.system("apt install wireshark")
+install14 = os.system("apt install wireshark")
 
-install = os.system("apt install cmatrix")
+install15 = os.system("apt install cmatrix")
 
-install = os.system("pkg install figlet")
+install16 = os.system("pkg install figlet")
 
-install = os.system("pkg install wget")
+install17 = os.system("pkg install wget")
 
-install = os.system("pkg install wget -y")
+install18 = os.system("pkg install wget -y")
 
-install = os.system("pkg install python2 -y")
+install19 = os.system("pkg install python2 -y")
 
-install = os.system("pkg install python2-dev -y")
+install20 = os.system("pkg install python2-dev -y")
 
-install = os.system("apt install wireshark")
+install21 = os.system("apt install wireshark")
 
-install = os.system("pkg install cowsay")
+install22 = os.system("pkg install cowsay")
 
-install = os.system("pkg install toilet")
+install23 = os.system("pkg install toilet")
 
-install = os.system("pkg install ruby")
+install24 = os.system("pkg install ruby")
 
-install = os.system("pkg install help")
+install25 = os.system("pkg install help")
 
-install = os.system("gem install lolcat")
+install26 = os.system("gem install lolcat")
 
-install = os.system("pkg install curl")
+install27 = os.system("pkg install curl")
 
-install = os.system("pkg install wgetrc")
+install28 = os.system("pkg install wgetrc")
 
-install = os.system("pkg install unzip")
+install29 = os.system("pkg install unzip")
 
-install = os.system("pkg install openssh")
+install30 = os.system("pkg install openssh")
 
-install = os.system("pkg install tor")
+install31 = os.system("pkg install tor")
 
-install = os.system("pkg install uzip")
+install32 = os.system("pkg install uzip")
 
-install = os.system("pkg install net-tools")
+install33 = os.system("pkg install net-tools")
 
-install = os.system("pkg install unrar")
+install34 = os.system("pkg install unrar")
 
-install = os.system("pkg install clang")
+install35 = os.system("pkg install clang")
 
-install = os.system("pkg install w3m")
+install36 = os.system("pkg install w3m")
 
-install = os.system("pkg install proot")
+install37 = os.system("pkg install proot")
 
-install = os.system("pip2 install wget")
+install38 = os.system("pip2 install wget")
 
-install = os.system("pip2 install requests")
+install39 = os.system("pip2 install requests")
 
-install = os.system("apt update && apt upgrade")
+install40 = os.system("apt update && apt upgrade")
 
 
 print("""\033[1;91m\n                                                  
