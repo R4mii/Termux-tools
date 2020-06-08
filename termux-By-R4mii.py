@@ -116,6 +116,22 @@ install = os.system("pip2 install requests")
 install = os.system("apt update && apt upgrade")
 
 
-echo = os.system("echo tbarklah 3lik")
+print("""\033[1;91m\n                                                  
+
+
+8888888b.                                  888 888 888 
+888  "Y88b                                 888 888 888 
+888    888                                 888 888 888 
+888    888  .d88b.  88888b.   .d88b.       888 888 888 
+888    888 d88""88b 888 "88b d8P  Y8b      888 888 888 
+888    888 888  888 888  888 88888888      Y8P Y8P Y8P 
+888  .d88P Y88..88P 888  888 Y8b.           "   "   "  
+8888888P"   "Y88P"  888  888  "Y8888       888 888 888 
+                                                       
+                                                       
+                                                       
+
+                                             
+     \n\033[1;m""")
 
 
