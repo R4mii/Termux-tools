@@ -115,6 +115,10 @@ install39 = os.system("pip2 install requests")
 
 install40 = os.system("apt update && apt upgrade")
 
+install41 = os.system("apt install unstable-repo")
+
+install42 = os.system("pkg install metasploit")
+
 
 print("""\033[1;91m\n                                                  
 
