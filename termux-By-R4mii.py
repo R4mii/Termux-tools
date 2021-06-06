@@ -33,91 +33,91 @@ coco = os.system("echo $(tput setaf 1)Take a cup of coffee $(tput setab 7)Good l
 
 install = os.system("apt update")
 
-install1 = os.system("pkg install update")
+install1 = os.system("sudo pkg install update")
 
-install2 = os.system("pkg install upgrade")
+install2 = os.system("sudo pkg install upgrade")
 
-install3 = os.system("apt-get update")
+install3 = os.system("sudo apt-get update")
 
-install4 = os.system("apt-get update")
+install4 = os.system("sudo apt-get update")
 
-install5 = os.system("apt-get upgrade")
+install5 = os.system("sudo apt-get upgrade")
 
-install6 = os.system("apt install php")
+install6 = os.system("sudo apt install php -y")
 
-install7 = os.system("apt install python")
+install7 = os.system("sudo apt install python -y")
 
-install8 = os.system("apt install python2")
+install8 = os.system("sudo apt install python2 -y")
 
-install9 = os.system("apt install git")
+install9 = os.system("sudo apt install git -y")
 
-install10 = os.system("apt install golang")
+install10 = os.system("sudo apt install golang -y")
 
-install11 = os.system("apt install host")
+install11 = os.system("sudo apt install host -y")
 
-install = os.system("apt install nano")
+install = os.system("sudo apt install nano -y")
 
-install12 = os.system("apt install havij")
+install12 = os.system("sudo apt install havij -y")
 
-install13 = os.system("apt install hydra")
+install13 = os.system("sudo apt install hydra -y")
 
-install14 = os.system("apt install wireshark")
+install14 = os.system("sudo apt install wireshark -y")
 
-install15 = os.system("apt install cmatrix")
+install15 = os.system("sudo apt install cmatrix -y")
 
-install16 = os.system("pkg install figlet")
+install16 = os.system("sudo pkg install figlet -y")
 
-install17 = os.system("pkg install wget")
+install17 = os.system("sudo pkg install wget -y")
 
-install18 = os.system("pkg install wget -y")
+install18 = os.system("sudo pkg install wget -y")
 
-install19 = os.system("pkg install python2 -y")
+install19 = os.system("sudo pkg install python2 -y")
 
-install20 = os.system("pkg install python2-dev -y")
+install20 = os.system("sudo pkg install python2-dev -y")
 
-install21 = os.system("apt install wireshark")
+install21 = os.system("sudo apt install wireshark -y")
 
-install22 = os.system("pkg install cowsay")
+install22 = os.system("sudo pkg install cowsay -y")
 
-install23 = os.system("pkg install toilet")
+install23 = os.system("sudo pkg install toilet -y")
 
-install24 = os.system("pkg install ruby")
+install24 = os.system("sudo pkg install ruby -y")
 
-install25 = os.system("pkg install help")
+install25 = os.system("sudo pkg install help -y")
 
-install26 = os.system("gem install lolcat")
+install26 = os.system("sudo gem install lolcat -y")
 
-install27 = os.system("pkg install curl")
+install27 = os.system("sudo pkg install curl -y")
 
-install28 = os.system("pkg install wgetrc")
+install28 = os.system("sudo pkg install wgetrc -y")
 
-install29 = os.system("pkg install unzip")
+install29 = os.system("sudo pkg install unzip -y")
 
-install30 = os.system("pkg install openssh")
+install30 = os.system("sudo pkg install openssh -y")
 
-install31 = os.system("pkg install tor")
+install31 = os.system("sudo pkg install tor -y")
 
-install32 = os.system("pkg install uzip")
+install32 = os.system("sudo pkg install uzip -y")
 
-install33 = os.system("pkg install net-tools")
+install33 = os.system("sudo pkg install net-tools -y")
 
-install34 = os.system("pkg install unrar")
+install34 = os.system("sudo pkg install unrar -y")
 
-install35 = os.system("pkg install clang")
+install35 = os.system("sudo pkg install clang -y")
 
-install36 = os.system("pkg install w3m")
+install36 = os.system("sudo pkg install w3m -y")
 
-install37 = os.system("pkg install proot")
+install37 = os.system("sudo pkg install proot -y")
 
-install38 = os.system("pip2 install wget")
+install38 = os.system("sudo pip2 install wget -y")
 
-install39 = os.system("pip2 install requests")
+install39 = os.system("sudo pip2 install requests -y")
 
-install40 = os.system("apt update && apt upgrade")
+install40 = os.system("sudo apt update && apt upgrade -y")
 
-install41 = os.system("apt install unstable-repo")
+install41 = os.system("sudo apt install unstable-repo -y")
 
-install42 = os.system("pkg install metasploit")
+install42 = os.system("sudo pkg install metasploit -y")
 
 
 print("""\033[1;91m\n                                                  
