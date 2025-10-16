@@ -1,4 +1,3 @@
-<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/c693fc18-6f58-418f-a734-1b41da4cd8c7" /># Termux Tools Installer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Termux-green.svg" alt="Platform">
