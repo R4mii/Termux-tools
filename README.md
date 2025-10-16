@@ -1,4 +1,4 @@
-# Termux Tools Installer
+<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/c693fc18-6f58-418f-a734-1b41da4cd8c7" /># Termux Tools Installer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Termux-green.svg" alt="Platform">
@@ -96,8 +96,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-- GitHub: [Your GitHub Profile](https://github.com/R4mii)
-- Twitter: [@YourTwitterHandle](https://x.com/_r4mii_)
+- Instagram: [v01_dy](https://www.instagram.com/v01_dy/)
+- Telegram: [@Void_X0X]
 
 ---
 
